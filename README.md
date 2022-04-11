@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @yaminikurra
+- 👀 I’m interested in all things security, I work as a penetration tester currently preparing for my OSCP. 
+- 🌱 I’m currently learning to code in python and securing CI/CD, kubernetes.
